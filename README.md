@@ -40,6 +40,9 @@ cd node-gcp-app-engine-deploy
 # Install dependencies
 npm install
 
+# Run the app
+npm run start
+
 
 
 
