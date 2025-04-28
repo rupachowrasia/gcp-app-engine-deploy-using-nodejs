@@ -32,10 +32,10 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/rupachowrasia/node-gcp-app-engine-deploy.git
+git clone https://github.com/rupachowrasia/gcp-app-engine-deploy-using-nodejs.git
 
 # Move into the project directory
-cd node-gcp-app-engine-deploy
+cd gcp-app-engine-deploy-using-nodejs
 
 # Install dependencies
 npm install
